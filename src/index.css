@@ -1,0 +1,59 @@
+@import './themes.css';
+@import url('https://fonts.googleapis.com/css?family=Croissant+One:regular');
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,100..900;1,100..900&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+
+
+body {
+  width: 100vw;
+  min-height: 100vh;
+  height: 100vh;
+  font-family: "Croissant One", "cursive";
+  display: flex;
+  background: #020010;
+  flex-direction: column;
+  align-items: center;
+  justify-content: start;
+}
+
+.skills-section {
+  text-align: center;
+  padding: 50px;
+  color: #fff;
+}
+
+.section-title {
+  font-size: 2.5rem;
+  margin-bottom: 20px;
+}
+
+.section-description {
+  font-size: 1.2rem;
+  margin-bottom: 40px;
+}
+
+.skills-slider {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.skill-card {
+  text-align: center;
+  padding: 20px;
+}
+
+.skill-card h3 {
+  margin-top: 15px;
+  font-size: 1.5rem;
+}
+
+
+
+
+
+
