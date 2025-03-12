@@ -33,10 +33,9 @@ const Introduction = () => {
                     </h2>
 
                     <p className="raleway-bold text-l text-slate-200 mt-6 text-center lg:text-left">
-                    Welcome to my web development portfolio! I&apos;m an inquisitive individual with a passion for both science and technology. 
-                    I hold an Honours degree in Plant Pathology, building on my Bachelor of Science in Microbiology and Plant Pathology. 
-                    My love for science extends beyond the lab, fueling my enthusiasm for tech and web development. 
-                    When I&apos;m not coding, you can find me exploring different musical instruments, constantly seeking new ways to harmonize creativity and analytical thinking. Dive into my projects to see how I blend my scientific background with innovative web solutions.
+                    Welcome to my web development portfolio! I&apos;m an inquisitive individual with a passion for both finance and technology. 
+                    My love for tech is fueled by the challenges it comes with and wanting to see myself build projects that make a difference and solve problems as a Data Scientist and Web Developer. 
+                
                     </p>
                 </div>
 
