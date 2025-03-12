@@ -45,13 +45,12 @@ const About = () => {
                      {/* content */}
                      <div className="w-full px-8 flex flex-col gap-2 items-start justify-start">
                                 <p className="text-texlight text-base tracking-wide text-justify">
-                                I am a dedicated software engineer with a background in microbiology, which allows me to blend scientific rigor with innovative technology solutions. 
-                                My expertise spans both front-end and back-end development, and I’m proficient in languages like JavaScript, PHP, and Python. I have a particular passion for working with React, Flask, and cloud computing platforms like Microsoft Azure, where I’ve honed my ability to deploy scalable web applications. 
-                                With a strong interest in cybersecurity and software development, I bring an analytical mindset that enhances my approach to problem-solving and software development.
+                                I am a dedicated indivual with who is very keen on making it in the tech world. My main aim is to be prominent in both front-end and back-end development, with proficiency in programming languages such as Python, JavaScript and HTML. I have a strong interest in working with frameworks and platforms including React, Flask, and Microsoft Azure, through which I have developed and deployed scalable web applications.
+As an aspiring data scientist and software engineer, I bring a highly analytical mindset and a detail-oriented approach to problem-solving, contributing to the development of efficient and impactful software solutions.
                                 </p>
                                 <p className="text-texlight text-base tracking-wide text-justify">
-                                My portfolio reflects my ability to create impactful projects, including Edu Pal, a hackathon-winning platform I developed to enhance the learning experience for high school students. 
-                                I’ve also developed advertising platforms and clinic management systems, demonstrating my versatility and creativity. I’m always eager to learn and expand my knowledge, with recent certifications in cybersecurity and Python development. 
+                                My portfolio reflects my ability to create impactful projects. I developed to enhance the learning experience. 
+                                I’m always eager to learn and expand my knowledge. 
                                 My blend of skills, enthusiasm for tech, and desire to make a difference drive me to be a dynamic force in the industry.
                                 </p>
                                
