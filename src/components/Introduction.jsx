@@ -20,7 +20,7 @@ const Introduction = () => {
                     <h2 className="text-3xl lg:text-4xl text-gray-400">Hello, It&apos;s me
                         <span className="block tracking-wider text-2xl lg:text-4xl mt-4 text-slate-200">
                             {" "}
-                            Nolubabalo Maxazana
+                            Tebogo Emmanuel Maboea
                         </span>
                     </h2>
 
