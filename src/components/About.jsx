@@ -49,7 +49,7 @@ const About = () => {
 As an aspiring data scientist and software engineer, I bring a highly analytical mindset and a detail-oriented approach to problem-solving, contributing to the development of efficient and impactful software solutions.
                                 </p>
                                 <p className="text-texlight text-base tracking-wide text-justify">
-                                My portfolio reflects my ability to create impactful projects. I developed to enhance the learning experience. 
+                                My portfolio reflects my ability to create impactful projects I have developed to enhance the learning experience. 
                                 I’m always eager to learn and expand my knowledge. 
                                 My blend of skills, enthusiasm for tech, and desire to make a difference drive me to be a dynamic force in the industry.
                                 </p>
