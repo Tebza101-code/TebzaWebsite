@@ -61,7 +61,7 @@ export const Contact = [
   {
     id: `linkedin-${Date.now()}`,
     Icon: FaLinkedinIn,
-    uril: "https://www.linkedin.com/in/nolubabalo-maxazana-4327b168/",
+    uril: "https://www.linkedin.com/in/tebogo-maboea-14955a23a/",
     color: "#0072b1",
   },
   {
