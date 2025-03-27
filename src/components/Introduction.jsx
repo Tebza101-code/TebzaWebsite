@@ -1,5 +1,5 @@
 import { motion } from "framer-motion"
-import Hero from "../assets/images/hero1.png"
+import Hero from "/src/assets/images/hero1.png";
 import HeroTypeWriter from '../components/HeroTypeWriter'
 import useTheme from "./useTheme"
 
