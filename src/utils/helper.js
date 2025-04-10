@@ -55,7 +55,7 @@ export const Contact = [
   {
     id: `github-${Date.now()}`,
     Icon: FaGithub,
-    uril: "https://github.com/Nolu-M",
+    uril: "https://github.com/Tebza101-code/TebzaWebsite,
     color: "#fff",
   },
   {
@@ -79,7 +79,7 @@ export const Contact = [
   {
     id: `email-${Date.now()}`,
     Icon: FaEnvelope,
-    uril: "mailto:nolubabalomaxazana@gmail.com",
+    uril: "mailto:tebogomaboea1@gmail.com",
     color: "gray",
   },
 ];
