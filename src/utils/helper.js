@@ -55,7 +55,7 @@ export const Contact = [
   {
     id: `github-${Date.now()}`,
     Icon: FaGithub,
-    uril: "https://github.com/Tebza101-code/TebzaWebsite,
+    uril: "https://github.com/Tebza101-code/TebzaWebsite",
     color: "#fff",
   },
   {
